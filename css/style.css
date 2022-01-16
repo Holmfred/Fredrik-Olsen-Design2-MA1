@@ -60,7 +60,8 @@ h3 {
     font-size: 20px;
 }
 
-.rooms {
+.rooms, 
+.product-container {
     background-color: white;
     width: 1000px; 
     display: flex;
